@@ -1,4 +1,4 @@
-#  OAuth 2.0 Swagger-UI 
+#  Securing a Swagger API with OAuth2 JWT
 
 ## How to Run ?
 
